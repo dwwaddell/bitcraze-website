@@ -467,7 +467,7 @@ compensated for, this is completely normal.
 
 {% si_step the ground effect; ground-effect %}
 When the copter is flying close to the ground (less than a few decimeters
-above the ground) it is effected by what is called the ground effect. The
+above the ground) it is affected by what is called the ground effect. The
 feeling is that the air is slippery, almost as if it is gliding on ice.
 To avoid this, particularly when learning to fly, use a lot of thrust just
 when taking off and then ease off for level flight.
